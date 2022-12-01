@@ -2,3 +2,7 @@
 .trunk/config/.flake8
 .trunk/config/.isort.cfg
 .trunk/.gitignore
+api_key.py
+.gitignore
+__pycache__/api_key.cpython-311.pyc
+.gitignore
