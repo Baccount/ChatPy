@@ -6,3 +6,4 @@ api_key.py
 .gitignore
 __pycache__/api_key.cpython-311.pyc
 .gitignore
+__pycache__/responses.cpython-311.pyc
