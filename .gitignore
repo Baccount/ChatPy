@@ -1,0 +1,4 @@
+.trunk/trunk.yaml
+.trunk/config/.flake8
+.trunk/config/.isort.cfg
+.trunk/.gitignore
